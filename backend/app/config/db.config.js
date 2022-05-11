@@ -20,7 +20,7 @@
 module.exports = {
   db: "testdb",
   username: "root",
-  password: "",
+  password: "123qwe!@#QWE",
   host: "localhost",
   dialect: "mysql",
   operatorsAliases: false,
